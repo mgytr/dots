@@ -11,3 +11,4 @@ yay -S zsh foot wofi hyprland hyprpaper gnome-control-center waybar cowsay fortu
 Copy the contents of this folder to your home folder (except the directory cows)  
 Copy the cows/miku.cow to /usr/share/cowsay/cows  
 If you get asked to configure powerlevel, exit using Q  
+And last, install CozetteVector from [here](https://github.com/slavfox/Cozette?tab=readme-ov-file#linux) (NOT OTB!)
